@@ -1,0 +1,44 @@
+.column-right {
+    float: right;
+    width: 30%;
+    margin: 18px;
+    background-color: beige;
+}
+.gorilla {
+    color: rgba(197, 0, 204, 0.904);
+}
+.description {
+    padding: 8%;
+}
+
+.column-center {
+    float: left;
+    Width: 30%;
+    Margin: 18px;
+    Background-color: white;
+  }
+
+  .dog {
+    Color: green;
+  }
+
+  .center {
+      width: 75%;
+      margin: 18px;
+      background-color: white;
+  }
+  
+  .description {
+    Padding: 8%;
+  }
+  
+  .dog3 {
+      width: 30%;
+      margin: 18px;
+      background-color: grey;
+      margin-left: 250px;
+  }
+  #wide-dog {
+    position: sticky;
+    left: -80px;
+  }
